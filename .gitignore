@@ -1,19 +1,15 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+(https://twitter.com/michaelallar)
+* [CosmoMyzrailGorynych](https://github.com/CosmoMyzrailGorynych)
 
-# Other files and folders
-.settings/
+## License
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+Copyright (c) 2016 Gamemakin LLC
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+See [LICENSE](/LICENSE)
+
+**[⬆ Back to Top](#table-of-contents)**
+
+
+## Amendments
+
+We encourage you to fork this guide and change the rules to fit your team's style guide. Below, you may list some amendments to the style guide. This allows you to periodically update your style guide without having to deal with merge conflicts.
